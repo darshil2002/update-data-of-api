@@ -1,0 +1,19 @@
+{
+  "myNotes": [
+    {
+      "myData": "abcd",
+      "checkboxValue": false,
+      "id": 1
+    },
+    {
+      "myData": "xyz",
+      "checkboxValue": false,
+      "id": 2
+    },
+    {
+      "myData": "lmno",
+      "checkboxValue": false,
+      "id": 3
+    }
+  ]
+}
